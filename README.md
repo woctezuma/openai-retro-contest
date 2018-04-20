@@ -6,7 +6,7 @@ My entry for OpenAI Retro Contest.
 
 * [Contest](https://contest.openai.com/)
 
-* [Details](
+* [Details](https://contest.openai.com/details)
 
 * [Blog post](https://blog.openai.com/retro-contest/)
 

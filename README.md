@@ -13,3 +13,6 @@ My entry for OpenAI Retro Contest.
 * [Baselines](https://github.com/openai/retro-baselines)
 
 * [Main code repository](https://github.com/openai/retro)
+
+* [Code for contest entry](https://github.com/openai/retro-contest)
+

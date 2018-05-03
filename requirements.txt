@@ -1,1 +1,1 @@
-gym-retro
+gym-retro==0.5.4

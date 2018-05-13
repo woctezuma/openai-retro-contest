@@ -1,12 +1,13 @@
 import retro
 
 
-def run(num_steps=400):
+def run(display_on_screen=True, num_steps=400):
     env = retro.make(game='Airstriker-Genesis', state='Level1')
     obs = env.reset()
     for step_no in range(num_steps):
         obs, rew, done, info = env.step(env.action_space.sample())
-        env.render()
+        if display_on_screen:
+            env.render()
         if done:
             obs = env.reset()
 

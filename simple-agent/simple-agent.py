@@ -10,7 +10,7 @@ def main():
     while True:
         action = env.action_space.sample()
         action[7] = 1
-        ob, reward, done, _ = env.step(action)
+        _, _, done, _ = env.step(action)
         if done:
             print('episode complete')
             env.reset()

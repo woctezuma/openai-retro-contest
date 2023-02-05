@@ -3,8 +3,8 @@
 [![Build status][Build image]][Build]
 [![Code coverage][Codecov image]][Codecov]
 
-  [Build]: https://travis-ci.org/woctezuma/openai-retro-contest
-  [Build image]: https://travis-ci.org/woctezuma/openai-retro-contest.svg?branch=master
+  [Build]: <https://github.com/woctezuma/openai-retro-contest/actions>
+  [Build image]: <https://github.com/woctezuma/openai-retro-contest/workflows/Python package/badge.svg?branch=master>
 
   [PyUp]: https://pyup.io/repos/github/woctezuma/openai-retro-contest/
   [Dependency image]: https://pyup.io/repos/github/woctezuma/openai-retro-contest/shield.svg
